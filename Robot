@@ -1,7 +1,7 @@
 public class Robot {
 
     public static void main (String[]args) {
-    
+    //makes you do something
         doSomething();
     }
 }
